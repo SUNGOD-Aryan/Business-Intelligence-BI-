@@ -1,5 +1,7 @@
 360° Business Insights - Business Intelligence (BI)
 
+ Live Power BI Dashboard Link :- https://app.powerbi.com/view?r=eyJrIjoiZjQ2ZWJiOWItMjk2YS00ZjdjLWJhZWEtNWJlMmZmYzUyOTE4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 I built this dashboard during the Codebasics Data Analytics program.
 This project strengthened my ability to convert raw business data into clear, actionable insights through effective dashboard design.
 
